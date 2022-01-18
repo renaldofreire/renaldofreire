@@ -9,7 +9,7 @@ Interesses adicionais 🆓: Open Source, Arch Linux, NeoVim, Emmet, Terminal, Sh
 
 Entre em contato por ✉ **<a href="mailto:eurenaldo@gmail.com">e-mail</a>**.
 
-<p align="left"><a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
+<p align="left"><a href="https://linkedin.com/in/renaldofreire" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<!--<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>-->
 
 ---
