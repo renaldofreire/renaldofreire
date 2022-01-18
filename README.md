@@ -4,8 +4,8 @@ A tecnologia sempre me encantou, porém, só agora topei o desafio de me tornar 
 
 Aqui você verá projetos criados durante a formação e alguns outros que criarei para pôr o aprendizado em prática.
 
-Foco🎯: JavaScript, HTML+CSS, TypeScript, React, NodeJS, Flutter e o que mais for necessário.
-Interesses adicionais🆓: Open Source, Arch Linux, NeoVim, Emmet, Terminal, Shell Script...
+Foco 🎯: JavaScript, HTML+CSS, TypeScript, React, NodeJS, Flutter e o que mais for necessário.<br>
+Interesses adicionais 🆓: Open Source, Arch Linux, NeoVim, Emmet, Terminal, Shell Script...
 
 Entre em contato por ✉ **<a href="mailto:eurenaldo@gmail.com">e-mail</a>**.
 
