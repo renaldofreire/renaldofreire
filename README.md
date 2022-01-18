@@ -1,6 +1,6 @@
 <h2>Oi, sou o Renaldo. 😄</h2>
 
-A tecnologia sempre me encantou, porém, só agora topei o desafio de me tornar um desenvolvedor!  Graças ao grupo boticário, terei a oportunidade de me tornar um dev Full Stack através do programa Desenvolve 2022.
+A tecnologia sempre me encantou, porém, só agora topei o desafio de me tornar um desenvolvedor!  Graças ao Grupo Boticário, terei a oportunidade de me tornar um dev Full Stack através do programa 🎓 Desenvolve 2022.
 
 Aqui você verá projetos criados durante a formação e alguns outros que criarei para pôr o aprendizado em prática.
 
