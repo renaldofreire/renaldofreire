@@ -4,8 +4,8 @@ A tecnologia sempre me encantou, porém, só agora topei o desafio de me tornar 
 
 Aqui você verá projetos criados durante a formação e alguns outros que criarei para pôr o aprendizado em prática.
 
-**Foco 🎯**: JavaScript, HTML+CSS, TypeScript, React, NodeJS, Flutter e o que mais for necessário.<br>
-**Outros Interesses 🆓**: Open Source, Linux, Vim, Emmet, Terminal, Shell Script...
+**Foco 🎯**: Java <br>
+**Outros Interesses 🆓**: Open Source, Linux - _I use Arch btw_, Python, Vim, Shell Script ...
 
 Entre em contato por **<a href="mailto:eurenaldo@gmail.com">e-mail</a>** ou pelo meu **<a href="https://renaldofreire.github.io/dev-porfolio/" target="blank">site</a>**.
 
