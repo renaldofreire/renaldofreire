@@ -16,9 +16,9 @@ Arch Linux, Qtile, open source.
 
 ## Current Stack
 
-**Languages:** Python, Bash, SQL
+**Languages:** Python, Bash, SQL  
 **Infra:** Proxmox, Docker, LXC, Nginx, Linux  
-**Tools:** Git, Flask, 
+**Tools:** Git, Flask 
 
 ---
 
