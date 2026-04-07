@@ -1,15 +1,34 @@
-<h2>Oi, sou o Renaldo. 😄</h2>
+# Renaldo Freire
 
-A tecnologia sempre me encantou, porém, só agora topei o desafio de me tornar um desenvolvedor!  Graças ao Grupo Boticário, terei a oportunidade de me tornar um dev Full Stack através do programa Desenvolve 2022 🎓.
+**Quality Analyst & Python Developer**
 
-Aqui você verá projetos criados durante a formação e alguns outros que criarei para pôr o aprendizado em prática.
+Formado em Análise e Desenvolvimento de Sistemas. 7+ anos na área de qualidade
+em BPO multinacional, atuando como Transaction Quality Analyst: governança de
+processos, relatórios analíticos, calibração e RCA.
 
-**Foco 🎯**: Python <br>
-**Outros Interesses 🆓**: Open Source, Linux - _I use Arch btw_, Python, Vim, Shell Script ...
+Desenvolvo projetos pessoais em Python e mantenho um homelab com Proxmox,
+containers LXC e Docker — incluindo inferência local de LLMs com Ollama e
+Open WebUI em uma Intel Arc B580.
 
-Entre em contato por **<a href="mailto:renaldo@duck.com">e-mail</a>** ou pelo meu **<a href="https://renaldofreire.dev" target="blank">site</a>**.
-
-<p align="left"><a href="https://linkedin.com/in/renaldofreire" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-<!--<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>-->
+Arch Linux, Qtile, software livre.
 
 ---
+
+## Stack atual
+
+**Linguagens:** Python, Bash  
+**Infra:** Proxmox, Docker, LXC, Nginx, Linux  
+**Ferramentas:** Git, Flask
+
+---
+
+## Projetos em andamento
+
+- [`python_MOOC_2026`](https://github.com/renaldofreire/python_MOOC_2026) — diário de aprendizado do curso da Universidade de Helsinki
+- [`portfolio`](https://github.com/renaldofreire/portfolio) — site pessoal em Flask + Frozen-Flask → [renaldofreire.dev](https://renaldofreire.dev)
+
+---
+
+## Contato
+
+[renaldofreire.dev](https://renaldofreire.dev) · [LinkedIn](https://linkedin.com/in/renaldofreire) · [renaldo@duck.com](mailto:renaldo@duck.com)
