@@ -2,33 +2,33 @@
 
 **Quality Analyst & Python Developer**
 
-Formado em Análise e Desenvolvimento de Sistemas. 7+ anos na área de qualidade
-em BPO multinacional, atuando como Transaction Quality Analyst: governança de
-processos, relatórios analíticos, calibração e RCA.
+Graduated in Systems Analysis and Development. 7+ years in quality at a
+multinational BPO, working as a Transaction Quality Analyst: process governance,
+analytical reporting, calibration, and RCA.
 
-Desenvolvo projetos pessoais em Python e mantenho um homelab com Proxmox,
-containers LXC e Docker — incluindo inferência local de LLMs com Ollama e
-Open WebUI em uma Intel Arc B580.
+I build personal projects in Python and maintain a homelab running Proxmox,
+LXC containers, and Docker — including local LLM inference with Ollama and
+Open WebUI on an Intel Arc B580.
 
-Arch Linux, Qtile, software livre.
+Arch Linux, Qtile, open source.
 
 ---
 
-## Stack atual
+## Current Stack
 
-**Linguagens:** Python, Bash  
+**Languages:** Python, Bash  
 **Infra:** Proxmox, Docker, LXC, Nginx, Linux  
-**Ferramentas:** Git, Flask
+**Tools:** Git, Flask
 
 ---
 
-## Projetos em andamento
+## Active Projects
 
-- [`python_MOOC_2026`](https://github.com/renaldofreire/python_MOOC_2026) — diário de aprendizado do curso da Universidade de Helsinki
-- [`portfolio`](https://github.com/renaldofreire/portfolio) — site pessoal em Flask + Frozen-Flask → [renaldofreire.dev](https://renaldofreire.dev)
+- [`python_MOOC_2026`](https://github.com/renaldofreire/python_MOOC_2026) — learning journal for the University of Helsinki Python course
+- [`portfolio`](https://github.com/renaldofreire/portfolio) — personal site built with Flask + Frozen-Flask → [renaldofreire.dev](https://renaldofreire.dev)
 
 ---
 
-## Contato
+## Contact
 
 [renaldofreire.dev](https://renaldofreire.dev) · [LinkedIn](https://linkedin.com/in/renaldofreire) · [renaldo@duck.com](mailto:renaldo@duck.com)
